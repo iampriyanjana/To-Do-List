@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin-left: 550px;
+    padding: 40px;
+}
+#inputField{
+    margin-left: 550px;
+    width: 200px;
+    height: 30px;
+}
+#addToDo{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.toDo{
+    margin-top: 10px;
+    margin-left: 550px;
+}
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+}
